@@ -1,8 +1,8 @@
-# Russian Semantic Centrality
+# МОДЕЛИРОВАНИЕ СЕМАНТИЧЕСКОЙ ЦЕНТРАЛЬНОСТИ ЛЕКСЕМ КАК ИНСТРУМЕНТА ИССЛЕДОВАНИЯ ОРГАНИЗАЦИИ МЕНТАЛЬНОГО ЛЕКСИКОНА
 
-This repository contains the datasets and supplementary materials accompanying the conference paper:
+*(Modeling Semantic Centrality of Lexemes as a Tool for Investigating the Organization of the Mental Lexicon)*
 
-**Semantic Centrality of Lexemes as a Cognitive Parameter of Mental Lexicon Organization**
+This repository contains the datasets and supplementary materials accompanying the conference paper.
 
 ## Repository contents
 
@@ -13,10 +13,4 @@ This repository contains the datasets and supplementary materials accompanying t
 
 ## Methodology
 
-Semantic centrality was calculated using pre-trained fastText embeddings.
-
-Cosine similarity was computed between all pairs of lexemes, and the semantic centrality of each lexeme was defined as the average cosine similarity between the target lexeme and all other lexemes in the analyzed dataset.
-
-## Citation
-
-If you use these datasets, please cite the accompanying publication.
+Semantic centrality was calculated using pre-trained fastText embeddings. Cosine similarity was computed between all pairs of lexemes, and the semantic centrality of each lexeme was defined as the average cosine similarity between the target lexeme and all other lexemes in the analyzed dataset.
